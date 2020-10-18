@@ -18,11 +18,12 @@
         - Third deals contains the templates of the players.
         - The final one has the controller of all the interfaces used in the project.
    - I have used files and sqlite to store and retrieve data.
+   - Datas for the Database is collected from the internet.
    - Almost all of java is used to create this project.
 ***
 # :star: **TOOLS , INTERFACE USED AND REQUIRED**
   - Intellij 
-  - SQLite
+  - SQLite 
   - FXML
    
 ***
